@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-add-and-subtract/static/css/main.964fdded.css",
+    "main.js": "/react-add-and-subtract/static/js/main.468b28e7.js",
+    "index.html": "/react-add-and-subtract/index.html",
+    "main.964fdded.css.map": "/react-add-and-subtract/static/css/main.964fdded.css.map",
+    "main.468b28e7.js.map": "/react-add-and-subtract/static/js/main.468b28e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.468b28e7.js"
+  ]
+}
